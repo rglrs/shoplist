@@ -1,16 +1,18 @@
-# todo_app
+# shoplist
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. git clone https://github.com/rglrs/shoplist.git dan buka di IDE anda
 
-A few resources to get you started if this is your first Flutter project:
+2. jalan kan flutter pub dev
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. di setiap page itu terdapat endpoint API,ubah ip nya menjadi ip di laptop anda
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. contoh http://192.168.0.6:8000/api/profile, untuk 192.168.0.6 itu rubah dengan ip anda
+
+5. cara melihat ip anda adalah buka cmd,lalu ketikkan ipconfig,lihat yang wireless dan temukan ip4 address,itu adalah ip anda
+
+6. ubah di semua page yang terdapat endpoint API nya
+
+7. note: jika anda run project nya menggunakan hp anda sebagai emulator,maka laptop dan hp anda harus terhubung ke wifi yang sama,tidak boleh beda!
