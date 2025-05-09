@@ -5,7 +5,7 @@
 
 1. git clone https://github.com/rglrs/shoplist.git dan buka di IDE anda
 
-2. jalan kan flutter pub dev
+2. jalan kan flutter pub get
 
 3. di setiap page itu terdapat endpoint API,ubah ip nya menjadi ip di laptop anda
 
